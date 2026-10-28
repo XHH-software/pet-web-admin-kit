@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--p-bg-page);
+  font-family: "PingFang SC", "Microsoft YaHei", -apple-system, sans-serif;
+  color: var(--p-text-1);
+  font-size: 14px;
+  line-height: 22px;
+}

@@ -1,0 +1,35 @@
+:root {
+  /* 品牌色：只用于「主按钮 / 选中态 / 关键数据」三处 */
+  --p-primary: #FF7A45;
+  --p-primary-hover: #FF9466;
+  --p-primary-active: #E8632E;
+  --p-primary-light: #FFF2EC;
+
+  /* 语义色 */
+  --p-success: #52C41A;
+  --p-warning: #FAAD14;
+  --p-danger: #FF4D4F;
+  --p-info: #8C8C8C;
+
+  /* 文字 */
+  --p-text-1: #1F2329;
+  --p-text-2: #4E5969;
+  --p-text-3: #86909C;
+  --p-text-4: #C9CDD4;
+
+  /* 背景与边框 */
+  --p-bg-page: #F7F8FA;
+  --p-bg-card: #FFFFFF;
+  --p-bg-hover: #F7F8FA;
+  --p-border: #E5E6EB;
+  --p-border-light: #F2F3F5;
+
+  /* 圆角 */
+  --p-radius-sm: 4px;
+  --p-radius: 8px;
+  --p-radius-lg: 12px;
+
+  /* 阴影 */
+  --p-shadow-card: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --p-shadow-popup: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
